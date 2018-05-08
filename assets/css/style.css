@@ -29,7 +29,7 @@ header {
     color: white;
     margin-top: 0px;
     background-color:#2b2c26;
-    background: linear-gradient(to bottom right, black, gray, blue, black);
+    background: linear-gradient(to bottom right, white, lightgray,white);
     float: left;
     font-size:27px;
     font-weight: bold;

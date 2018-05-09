@@ -29,7 +29,7 @@ header {
     color: white;
     margin-top: 0px;
     background-color:#2b2c26;
-    background: linear-gradient(to bottom right, black, white, blue,white);
+    background: linear-gradient(to bottom right, black, gray, blue, gray,black);
     float: left;
     font-size:27px;
     font-weight: bold;
@@ -73,7 +73,7 @@ header {
     border: 2px solid #dddddd;
     overflow: hidden;
     margin-bottom: 30px;
-    background: linear-gradient(to bottom right, black,white, gray,white,black);
+    background: linear-gradient(to bottom right,white, gray,white);
 }
 
 .container-2 {

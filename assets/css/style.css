@@ -281,8 +281,7 @@ footer {
     font-size: 10px;
     color: #ffffff;
     border-top: 5px solid #2b2c26;
-    background: linear-gradient(to bottom right, black,gray, lightgray, blue, lightgray,gray,black);
-}
+    background: linear-gradient(to bottom right, black,gray,black);
 
 
 .copy {

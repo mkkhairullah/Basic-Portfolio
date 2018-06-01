@@ -288,3 +288,25 @@ footer {
     color: #ffffff;
     padding-top: 12px;
 }
+@media screen and (max-width: 980px) {
+    
+    body {
+      background: mediumslateblue;
+    }
+  
+    }
+  @media screen and (max-width: 768px) {
+      /* The body's bg color will be #333 */
+      body {
+        background:mediumslateblue
+      }
+      head{
+        position:static;
+      }
+    }
+  @media screen and (max-width: 768px) {
+      /* The body's bg color will be #333 */
+      body {
+        background:mediumslateblue;
+      }
+    }
